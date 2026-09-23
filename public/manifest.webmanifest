@@ -1,0 +1,12 @@
+{
+  "name": "Nourish — Daily Wellness Assistant",
+  "short_name": "Nourish",
+  "description": "Breathing, movement, meditation, meal plans, and lifestyle tips for every day.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#eef3ec",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": []
+}
